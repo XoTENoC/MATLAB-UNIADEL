@@ -1,0 +1,5 @@
+input   output
+4       'Divisable by 4'
+8       'Divisable by 4'
+6       no output
+5       no output

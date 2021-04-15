@@ -1,0 +1,4 @@
+input       expected output         observed output
+2, 2, 1     its isosceles           its isosceles
+4, 5, 3     no output               no output
+0, 0, 0     no output               no output

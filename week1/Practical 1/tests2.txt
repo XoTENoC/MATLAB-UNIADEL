@@ -1,0 +1,5 @@
+City_population   Expexted_output   Observed_output
+3000              323.7154          323.7154
+-4000             -431.6206         431.6206
+3000000           323715.415        323715.415
+0                 0                 0

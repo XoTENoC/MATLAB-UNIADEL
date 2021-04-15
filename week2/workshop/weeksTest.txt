@@ -1,0 +1,4 @@
+balance   expenditure   weeks left   output
+10        1             10           10          
+20        5             4            4           
+50        34            1.47         1.47     

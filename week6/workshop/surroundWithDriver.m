@@ -1,0 +1,10 @@
+A=[1];
+disp(A);
+A=surroundWith(A,2);
+disp(A);
+A=surroundWith(A,3);
+disp(A);
+A=surroundWith(A,4);
+disp(A);
+A=surroundWith(A,5);
+disp(A);

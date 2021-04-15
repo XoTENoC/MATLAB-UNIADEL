@@ -1,0 +1,4 @@
+vectorinput                     expected output                     observed output
+[2, 3, 5, 2, 0, -1, 5, 6, 9]    2  3  5  2                          2  3  5  2
+[0]                             no output                           no output
+[5, 6, 7, -2, 3, 3, 3, 3]       2  6  7                             2  6  7

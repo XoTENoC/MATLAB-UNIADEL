@@ -1,0 +1,4 @@
+width   height   perimeter   output  
+4       5        18          18         
+5       10       30          30         
+7       2        18          18       

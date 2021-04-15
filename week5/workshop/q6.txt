@@ -1,0 +1,5 @@
+input           expected output             observed output
+2, 3, 4         triangle is scalene         triangle is scalene
+2, 2, 3         no output                   no output
+0, 0, 0         no output                   no output
+-1, -1, -2      no output                   no output

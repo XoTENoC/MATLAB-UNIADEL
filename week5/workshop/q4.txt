@@ -1,0 +1,5 @@
+input       expected output         observed output
+4, 4, 4     triangle is equalateral triangle is equalateral
+1, 2, 3     no output               no output
+0, 0, 0     no output               no output
+-1, -1, -1  no output               no output

@@ -1,0 +1,4 @@
+City_population   Expexted_output   Observed_output
+5000              0.17984%          0.17984%
+1300000           46.7589%          46.7589%          <-- Adelaides Population
+1000000000        35968.3794%       35968.3794%

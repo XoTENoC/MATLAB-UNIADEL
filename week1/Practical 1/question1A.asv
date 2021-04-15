@@ -1,0 +1,13 @@
+%% Volume of a Box Calculator
+% file: question1A.m
+
+% asks the user for the width of the box
+width = input("Input the width: ");
+% asks the user for the height of the box
+height = input("Input the height: ");
+% asks the user for t
+length = input("Input the legth: ");
+
+volume = width * height *length;
+
+disp(volume);

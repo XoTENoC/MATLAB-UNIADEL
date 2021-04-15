@@ -1,0 +1,3 @@
+minimun and maximum is 1 and 10 respectivly.
+
+The minimun number that can sumed together is 5 and the maximum number that will be able to be summmed is 50.

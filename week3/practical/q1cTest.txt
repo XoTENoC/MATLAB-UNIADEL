@@ -1,0 +1,5 @@
+there should be 1 graph
+
+plot of (A, B)
+
+the plot of (A, B) should look like a cubic function

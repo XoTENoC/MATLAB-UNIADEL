@@ -1,0 +1,5 @@
+City_population   Cost_per_person   Expexted_output   Observed_output
+3000              23.74             72210             72210
+-4500             23.74             108315            108315
+4                 23.74             96.28             96.28
+0                 23.74             0                 0
